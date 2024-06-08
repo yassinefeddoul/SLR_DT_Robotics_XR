@@ -1,0 +1,1 @@
+The provided table is part of a comprehensive literature review on the latest advancements in robotics interfaced with eXtended Reality (XR) technologies in the industry. This review has been published in the International Journal of Advanced Manufacturing Technology. You can access the full article at: International Journal of Advanced Manufacturing Technology.
